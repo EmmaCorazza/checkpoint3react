@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "destination": "Rom, Italien",
+    "dates": [
+      {
+        "year": 2016,
+        "month": "mars"
+      }
+    ],
+    "highlights": ["Colosseum", "Vatican City", "Trevi Fountain"],
+    "description": "En resa till Rom, upplevde historiska platser och njöt av den italienska maten.",
+    "images": "rom.jpg"
+        },
+  {
+    "id": 2,
+    "destination": "Ayia Napa, Cypern",
+    "dates": [
+      {
+        "year": 2010,
+        "month": "augusti"
+      },  {
+        "year": 2017,
+        "month": "juni"
+      } 
+    ],
+    "highlights": ["Nissi Beach", "Makronissos beach", "Snorkel"],
+    "description": "En av de destiantioner som jag har arbetat utomlands på. När jag inte jobba njöt vi av stränder, sol, vänner och nattliv.",
+    "images":"cypern.jpg"      },
+  {
+    "id": 3,
+    "destination": "Koh Chang, Thailand",
+    "dates": [
+      {
+        "year": 2019,
+        "month": "maj"
+      }
+    ],
+    "highlights": ["White Sand Beach", "Klong Plu Waterfall", "Snorkeling in Bang Bao"],
+    "description": "En tropisk paradisresa till Koh Chang, vi besökte flera thailändska öar och fantastiska upplevde solnedgångar.",
+    "images": "thailand.jpg"      },
+  {
+    "id": 4,
+    "destination": "Spanien",
+    "dates": [
+      {
+        "year": 2013,
+        "month": "juni"
+      }, {
+        "year": 2020,
+        "month": "september"
+      }, {
+        "year": 2023,
+        "month": "augusti"
+      }
+    ],
+    "highlights": ["Mallorca", "Nerja", "Alicante"],
+    "description": "En resa till soliga Spanien, ett land där jag både har jobbat i men som jag även åker ofta till för sol, bad och god mat.",
+    "images":"spanien.jpg"
+  },
+  {
+    "id": 5,
+    "destination": "Paris, Frankrike",
+    "dates": [
+      {
+        "year": 2020,
+        "month": "februari"
+      }
+    ],
+    "highlights": ["Eiffel Tower", "Louvre Museum", "Montmartre"],
+    "description": "En resa till Paris, utforskade ikoniska platser och njut av fransk konst och mat.",
+    "images":"paris.jpg"
+  },
+  {
+    "id": 6,
+    "destination": "Reykjavik, Island",
+    "dates": [
+      {
+        "year": 2021,
+        "month": "april"
+      }
+    ],
+    "highlights": ["Golden Circle", "Blue Lagoon", "Geysir"],
+    "description": "En äventyrsresa till den nordiska pärlan Reykjavik, såg vattebfall, badade i blåa laguner och såg gejsrar.",
+    "images": "island.jpg"
+  },
+  {
+    "id": 7,
+    "destination": "London, England",
+    "dates": [
+      {
+        "year": 2021,
+        "month": "september"
+      }
+    ],
+    "highlights": ["Buckingham Palace", "Big Ben", "London eye"],
+    "description": "En resa till London, utforska kungliga platser, shopping och besökte såklart Big B",
+    "images": "london.jpg"
+  },
+  {
+    "id": 8,
+    "destination": "Edinburgh, Skottland",
+    "dates": [
+      {
+        "year": 2022,
+        "month": "april"
+      }
+    ],
+    "highlights": ["Edinburgh Castle", "Underground tour", "Loch ness"],
+    "description": "En resa till den staden Edinburgh, hyrde bil och körde runt bland slott och berg.",
+    "images":"edinburgh.jpg"
+  },
+  {
+    "id": 9,
+    "destination": "Grekland",
+    "dates": [
+      {
+      "year": 2015,
+      "month": "juni"
+    },
+      {
+        "year": 2022,
+        "month": "september"
+      }
+    ],
+    "highlights": ["Rhodos", "Syvota", "Lindos"],
+    "description": "En resa till Grekland, ett land där jag både har jobbat i och besökt flera gånger för sol och bad.",
+    "images":"grekland.jpg"
+  },
+  {
+    "id": 10,
+    "destination": "Costa Rica",
+    "dates": [
+      {
+        "year": 2023,
+        "month": "april"
+      }
+    ],
+    "highlights": ["Limon", "Sloth Sanctuary", "National Park"],
+    "description": "En äventyrlig resa till Costa Rica, utforskade regnskogen, bananträd, stranden och sengångare.",
+    "images":"costarica.jpg"
+  },
+  {
+    "id": 11,
+    "destination": "Bahamas",
+    "dates": [
+      {
+        "year": 2023,
+        "month": "april"
+      }
+    ],
+    "highlights": ["Ocean Key", "private bungalow on the beach", "Champange in the sunset"],
+    "description": "En del av våran kryssning spenderades på Bahamas, en tropisk liten paradisö där vi njöt av vita stränder, drinkar och turkost vatten.",
+    "images": "bahamas.jpg"
+  }, 
+  {"id": 12,
+  "destination": "Mexiko",
+  "dates": [
+    {
+      "year": 2023,
+      "month": "april"
+    }
+  ],
+  "highlights": ["Passion Island", "Conzumel", "Mayan Temple"],
+  "description": "Som en del av våran kryssning så åkte vi till Mexico, varavade tacosen med tequila, bad och sol.",
+  "images": "mexico.jpg"   
+ }
+]
+
